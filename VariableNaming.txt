@@ -1,0 +1,3 @@
+Weights:
+WTO - take off weight
+Wpayload - payload weight

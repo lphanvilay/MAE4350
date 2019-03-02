@@ -7,3 +7,4 @@ Ttot = Nre*Tre + Nrj*Trj + Ntrj*Ttrj;
 Wpayload = %Payload Weight
 
 %Iterative process to get gross weight
+
